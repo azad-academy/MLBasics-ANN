@@ -22,7 +22,7 @@ The full tutorial is available on following links:
 
 On Medium:
 
-https://azad-wolf.medium.com/
+https://medium.com/@azad-wolf/ml-basics-part-3-artificial-neural-networks-879851bcd217
 
 On Substack:
 
