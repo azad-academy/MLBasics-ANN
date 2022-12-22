@@ -225,7 +225,8 @@ input1 = widgets.FloatSlider(
     min=-4,
     max=4,
     step=0.01,
-    bar_color='red'
+    bar_color='red',
+    description='X1:'
 )
 
 input2 = widgets.FloatSlider(
@@ -234,7 +235,8 @@ input2 = widgets.FloatSlider(
     min=-4,
     max=4,
     step=0.01,
-    bar_color='green'
+    bar_color='green',
+    description='X2:'
 )
 
 class_label = widgets.Dropdown(
