@@ -22,11 +22,11 @@ The full tutorial is available on following links:
 
 On Medium:
 
-https://medium.com/@azad-wolf/ml-basics-part-3-artificial-neural-networks-879851bcd217
+https://azad-wolf.medium.com/ml-basics-part-3-artificial-neural-networks-879851bcd217
 
 On Substack:
 
-https://azadwolf.substack.com/
+https://azadwolf.substack.com/p/ml-basics-part-3-artificial-neural
 
 
 
